@@ -1,0 +1,16 @@
+# System and IDE files
+Thumbs.db
+.DS_Store
+.idea
+*.iml
+
+
+
+# Vendors
+node_modules/
+
+# Build
+tmp/
+dist/
+/npm-debug.log
+/yarn-error.log
